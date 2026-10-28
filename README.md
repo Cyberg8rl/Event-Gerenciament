@@ -32,13 +32,6 @@ python main.py
 
 A versão atual mantém eventos e inscrições em memória usando listas e dicionários. Os dados são perdidos quando o programa é encerrado; não há persistência em arquivo ou banco de dados.
 
-## Limitações e melhorias futuras
-
-- Validar o formato e a consistência das datas.
-- Impedir nomes vazios e inscrições duplicadas.
-- Persistir os dados em arquivo ou banco de dados.
-- Criar testes automatizados para os fluxos de sucesso e erro.
-
 ## Finalidade
 
 Projeto acadêmico para praticar lógica de programação, funções, estruturas condicionais, laços, validação de entradas e regras de negócio. Não é um sistema de produção.
